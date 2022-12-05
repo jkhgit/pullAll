@@ -1,0 +1,14 @@
+Source: pull-all
+Standards-Version: 0.0.1
+Priority: optional
+Maintainer: Steve Jeong <jkhpro@gmail.com>
+Build-Depends: debhelper (>= 10),
+  libc6-dev
+
+Package: pull-all
+Section: devel
+Priority: optional
+Architecture: any
+Standards-Version: 0.0.1
+Description: random pull numbers.
+  ramdom numbers and select. 
