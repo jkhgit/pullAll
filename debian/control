@@ -1,7 +1,7 @@
 Source: pull-all
 Standards-Version: 0.0.1
 Priority: optional
-Maintainer: Steve Jeong <jkhpro@gmail.com>
+Maintainer: Steve Jeong <how2soft@gmail.com>
 Build-Depends: debhelper (>= 10),
   libc6-dev
 
