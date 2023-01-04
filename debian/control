@@ -1,5 +1,5 @@
 Source: pull-all
-Standards-Version: 0.0.1
+# Standards-Version:
 Priority: optional
 Maintainer: Steve Jeong <how2soft@gmail.com>
 Build-Depends: debhelper (>= 10),
