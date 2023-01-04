@@ -1,3 +1,9 @@
+pull-all (0.0.3) stable; urgency=medium
+
+  * delete field 'Standards-Version' launchpad no has any version of pullAll.
+
+ -- Steve Jeong <how2soft@gmail.com>  Wed, 04 Jan 2023 18:27:09 +0900
+
 pull-all (0.0.2) stable; urgency=medium
 
   * change steve's e-mail.
