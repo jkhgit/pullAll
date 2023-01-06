@@ -1,8 +1,14 @@
+pull-all (0.0.6) unstable; urgency=medium
+
+  * build test version 0.0.6
+
+ -- Steve Jeong <how2soft@gmail.com>  Fri, 06 Jan 2023 09:22:42 +0900
+
 pull-all (0.0.5) unstable; urgency=medium
 
   * test import and Standards-Version.
 
- -- Steve Jeong <steve@71b447720f22>  Thu, 05 Jan 2023 16:38:27 +0900
+ -- Steve Jeong <how2soft@gmail.com>  Thu, 05 Jan 2023 16:38:27 +0900
 
 pull-all (0.0.4) unstable; urgency=medium
 
