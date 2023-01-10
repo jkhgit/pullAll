@@ -7,6 +7,7 @@ Build-Depends: debhelper (>= 10),
 
 Package: pull-all
 Architecture: any
-Depends: ${misc:Depends}
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: random pull numbers.
   ramdom numbers and select. 
